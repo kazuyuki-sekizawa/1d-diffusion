@@ -1,4 +1,0 @@
-\_form#0=59x13:$y=ax+b$
-\_form#1=329x39:\[ |I_2|=\left| \int_{0}^T \psi(t) \left\{ u(a,t)- \int_{\gamma(t)}^a \frac{d\theta}{k(\theta,t)} \int_{a}^\theta c(\xi)u_t(\xi,t)\,d\xi \right\} dt \right| \]
-\_form#2=63x29:\[ \frac{\mathrm{d}f}{\mathrm{d}t} = \kappa\frac{\mathrm{d}^2f}{\mathrm{d}x^2} \]
-\_form#3=116x29:\[ \frac{\mathrm{d}f(x,t)}{\mathrm{d}t} = \kappa\frac{\mathrm{d}^2f(x,t)}{\mathrm{d}x^2} \]
